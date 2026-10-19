@@ -1,0 +1,9 @@
+secrets.h
+*.local.h
+*.local.json
+.env
+.env.*
+credentials.*
+private/
+*.key
+*.pem
